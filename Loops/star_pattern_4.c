@@ -13,6 +13,7 @@ int main()
             if (j >= i)
             {
                 printf("* ");
+                //space nhi dega toh pyramid
             }
             else
             {

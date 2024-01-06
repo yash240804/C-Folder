@@ -2,7 +2,7 @@
 
 int main()
 {
-    int i=0, num;
+    int i = 0, num;
     printf("Enter No. To Which You Want To Print\n");
     scanf("%d", &num);
     do

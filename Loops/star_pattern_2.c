@@ -13,6 +13,8 @@ int main()
             if (i + j > (n))
             {
                 printf("* ");
+                //space nhi dega toh pyrmid nhi banega
+                
             }
             else
             {

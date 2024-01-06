@@ -17,6 +17,7 @@ int main()
     {
     case '1':
         printf("Lenght of string entered is : %d\n\n", lenght(a));
+        printf("Lenght of string entered is : %d\n\n", lenght(c));
         break;
 
     case '2':

@@ -22,5 +22,6 @@ int main()
 
     printf("Use Of Strcpy %s\n", strcpy(c, a));
     printf("%s", c);
+    
     return 0;
 }
